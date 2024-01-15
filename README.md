@@ -19,4 +19,7 @@ Fonction divisible OK (sauf si on rentre du texte, mais étant donné qu'elle d�
 Il y a d'ailleurs une erreur, que j'ai corrigé, dans le code de Turing :
 
 if c>9 or c<0 or d>9 or c<0 or u>9 or u<0: 
+
+à la place de :
+
 if c>9 or c<0 or d>9 or d<0 or u>9 or u<0: 
